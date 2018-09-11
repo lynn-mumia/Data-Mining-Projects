@@ -1,0 +1,345 @@
+1	1971		Wayne Jotham Gakuo
+2	4860		Stephanie Kibe
+3	0		Naomi Mugasia
+4	106		Frank Waruks
+5	840		Maggie Migide
+6	4690		Ruth Nyakio Karimi
+7	4739		Julateh Mulbah
+8	2660		Aisha Seidu
+9	840		Norbert Sackey
+10	3981		Lunkuse Betty Paulls
+11	427		Naomi Mugasia
+12	67		Nana Ama Akuffo-Kwapong
+13	74		Nicholas Tali
+14	361		Douglas Mboga
+15	3024		Kilonzi Faith Mueni
+16	3254		Memory Mumbi
+17	1098		Benson Murimi
+18	470		Fayie Odindo
+19	2128		Janice Jeiny
+20	1743		Rahab Wangari
+21	2253		Makani Mweembe
+22	329		Domino Samuz
+23	3586		Lydia Kemuma Kinyari
+24	301		Veronicah Nanjala
+25	1506		Dayc Daisy
+26	1918		Abenaa Esthee
+27	2970		Getrude Njeri
+28	1173		Eranho Fah Sim
+29	1674		Alucia Jumjum Juhmah
+30	4999		Valarie Kikaya
+31	68		Perer Kahilwah
+32	4151		Dee Cee Mwavali
+33	1421		Kingsley Gyan Agyekum
+34	2144		Marsc Whizkid
+35	2952		Ajwang A Brendah
+36	907		Priscah Williams
+37	31		Jimmy Mumia
+38	2426		Mwesigwa Job
+39	1517		Silantoi Olting'idi
+40	2924		Leah Wamaitha
+41	1526		Kwame O'dame
+42	1213		Geraldine Rabbin Amoah
+43	4999		Wilma Ashley Ayieta
+44	3709		Rephat Riley
+45	2193		Pauline Owino
+46	2101		Sam Mburu
+47	562		Eunice Adury
+48	4405		Ffyonna Muthio
+49	3227		Anne N Gitau
+50	503		Ammy Dina
+51	265		Lilian Awuor
+52	1755		Sylvia Binti Wabomba
+53	114		Jennifer Saarkwah
+54	1469		Khalid Omana
+55	1465		Rhodah Sudi
+56	1064		Grace Amponsah
+57	1078		Alieu Jallow
+58	964		Ntombie Thabethe
+59	5000		Pauline Achuya
+60	1280		Audrianna Lizanda
+61	917		Seth la Créme
+62	3335		James Mureithi
+63	4996		Verah Luvusi
+64	153		Nancy Waswa
+65	795		Kanana Nanis
+66	2955		Tegura Benita Lauriane
+67	21		Robert Osich
+68	1523		Caro Benson
+69	67		Brenes Ombere
+70	4482		Gloria Glow Ivor
+71	2343		Omusi Humphreys Allan
+72	4815		Caroline Auma Okwisia
+73	2		Barbara Braiban
+74	1065		Angella Nantambi
+75	1250		Teni Agana
+76	1066		Gideon Larmie
+77	1119		David Wainaina
+78	1407		Opeyemi Oyewole
+79	1435		Salome Okoh
+80	780		Anitaa Small
+81	636		Jennifer Sarfo
+82	5000		Valerie Atieno
+83	1700		Amanda Olive Amoah
+84	2764		Nellymaswas Kenyanya
+85	1147		Bilkis Mukhtar
+86	1308		Kevin Mboga
+87	518		Naomi Mugasia
+88	1421		Alex Njoroge
+89	4999		Grace Patisi
+90	667		Candiliciouz Florine Kendi
+91	1054		Eunice Endege
+92	498		Gedeon Niyonkuru
+93	5		Shaz Lee Nyagoha
+94	1898		Derick Omari
+95	57		Esau Mhandu
+96	784		Kojoh Creed
+97	777		Ivy Mamushka
+98	1158		Rose Njoka
+99	1584		Risper Maryah
+100	2499		Prince Aseri Dick
+101	86		Moige Omayio
+102	98		Sabelo Dube
+103	1097		Mabuza Natty
+104	55		Michael Sanchez
+105	93		Nasubo Sande
+106	85		Sihle Magagula
+107	598		Frederick Acquah
+108	618		Modou Sowe
+109	5000		Sally Lidechi
+110	1327		Mychal George
+111	3362		Mercynancy Peggy
+112	2808		Faith Mwaturo Walindi
+113	4400		Ninah Leboo
+114	507		Ibrahim Abdullah
+115	962		Ruth Uside Luyali
+116	3242		Bethuel Savior
+117	436		Maxx Prince
+118	10		Hisa Young
+119	0		Vallen Kikaya
+120	1006		Tumuhairwe Ronald
+121	1678		Caren Anyango
+122	1320		Sharon Amkitsi
+123	1754		Festus Emmanuel
+124	351		Lordress Mal
+125	1218		Fridah Nyamu
+126	427		Magero Tito
+127	4315		Shacrine Karani
+128	793		Serah N Holley
+129	1736		Sharonne Agnalatam
+130	953		Mercy Asante
+131	736		Linda Nkulet
+132	4990		Angel Lizzie Richards
+133	3766		Kelly Dinozoff Kadivira
+134	1297		Cynthia Anzemo
+135	92		Wamaitha Williams
+136	101		Kwabena Adu Darkwa
+137	8		Jeff Gitoti
+138	524		Loltolo Petro Lesapiti
+139	2846		Pascie Jep
+140	624		Lyntie Lynn
+141	953		Israel Oladejo
+142	1249		Traisey Meggaz
+143	243		Naa Owedey
+144	2985		Aurelia Lwoyelo
+145	3298		Nancy Endege Busiega
+146	1315		Claire Chemutai
+147	1476		Bryan Achiampong
+148	1214		Demetrius Whaleboy Gustoff
+149	4552		Nha'nha Ama Gyemfuah
+150	2028		Nimmo Purity
+151	1449		Aliyah Clare
+152	3030		Sussan Koech
+153	2020		Hudson Taylor Lekunze
+154	781		Lynn Jifol Kiddy
+155	877		Haji Cassym
+156	80		Linda Delishoi
+157	1584		Sukai Jallow Gaye
+158	1194		Courage Kpotosu
+159	3003		Chris Rapz Perroni
+160	711		Evance Ken Nyesh Evans
+161	195		Phyllis Sitati
+162	4974		Cindy Juliet
+163	105		Abdul-Razak Adam
+164	1292		PeyJis Coffie
+165	4814		Victor Malcom
+166	1662		Warihana Gumah
+167	1944		Joseph Yaw Akyin
+168	363		Bre Bre
+169	101		Joe Wachira
+170	3738		Edward M Mulama
+171	682		Elg Luseno
+172	53		Kenya Kenyan
+173	1823		Tabby Luhombo
+174	4032		Richard Odame
+175	723		Esther Akoto
+176	4011		Caleb Onyedikachi Toluwanimi Jerry
+177	384		Beatrice Appiah
+178	791		Lydia Agala
+179	572		Rita Achibellah Owiti
+180	395		Welly Ketty
+181	829		Purex Sein
+182	1564		Olatunde OEla Babalola
+183	42		Purrietty M Manguya
+184	4997		Leonardo Rivera Muñoz
+185	507		Cinthia Sandrah
+186	690		Sirmie Dezz Qtyboy
+187	5000		Dennis Mgenya
+188	204		Riddhy Patel
+189	1174		Eben Asamoah
+190	879		Prince Kwarase
+191	1788		Nana Yaa Asantewaa
+192	745		Clare Speer
+193	863		Dindison Oscar
+194	274		Naa Sarkuah Narnor
+195	20		Augustus Vick
+196	1282		Lenny Leon Juma
+197	1658		Comfort Kiki
+198	1912		Faith Bianca
+199	677		Michael Amponsah
+200	430		Ssemwanga Edrine
+201	4939		Claudia Çlowëy Cãnterö
+202	4081		Kelly Capello
+203	898		Lyza Beatrice Migaliza
+204	4518		Ivon Dangote
+205	210		Rozinnah Muema
+206	4745		Emmanuela Fosua Mensah
+207	1364		Verah Phoebe
+208	514		Princess Orita
+209	1486		Fridah Kendi
+210	4731		Kombo Saumu Kombo
+211	805		Florence Bempong
+212	3034		Illah Senerwa
+213	4128		Elizabeth Teddy
+214	1090		Joy Nii Aponsah
+215	1353		Yinbil Francis
+216	1299		Mugwaneza Aliane
+217	1766		Bashkay Ibrah
+218	4963		Delgado Itilafu
+219	1069		James Muiruri
+220	1578		Liz Dali
+221	3596		Fyth Shiashia
+222	682		Levie Seremany
+223	4095		Celestine Kharasi
+224	3199		Shanice Shisia
+225	432		Justice Jay Nyama-tunechi
+226	5		Okoth F K Onyango
+227	2115		Eunixe Midevah
+228	2001		Sharonne Nyamin Shylla
+229	322		Joseph Agyapong Mensah
+230	282		Herman Duse
+231	728		Alvin Ofori
+232	485		Abed Moses
+233	344		Edsel Jumah
+234	433		Uniq Snaida
+235	74		Beatrice Obuya
+236	1051		Ayomide Aregbesola
+237	2725		Loice Shirwa
+238	539		Bridgett Marufu
+239	86		Joe Kaburia
+240	496		Efua Bainson
+241	1282		Vladimir Fomene
+242	3619		Sylvia Waswa
+243	1430		Leslie Sam
+244	2190		Yvonne Mukolwe
+245	2185		Joy Ngaira
+246	2		Arctone Blenxen Saitokxa
+247	873		Irene Cherop
+248	3606		Agnetta Shimuli
+249	455		King Awad
+250	2148		Viny Lovy
+251	952		Steven Tuss
+252	997		John Kodzo Osei
+253	0		S'busiso-Festus Emmanuel Jay
+254	810		Daizy Awuor
+255	911		Samuel Jude Acquaah
+256	1073		Nii Gabby
+257	791		Travis Amitah
+258	237		Patrick Mulama
+259	221		Tyt Millie
+260	207		Amos Njogu
+261	705		Ronald Nettey
+262	2082		Caleb Turpin-Quaye
+263	85		Benjamin Kankam
+264	167		Rhoda Wairimu
+265	145		Likudie Constant
+266	721		Derrick Noi Dowuona
+267	2881		Karikari Mensah Elvis
+268	441		Shikliz Mbugua
+269	574		Linda Bhebhe
+270	27		Success Appiah
+271	848		Grace Patisi
+272	465		Derrick Ndubi Mongare
+273	213		Maryam Hatib
+274	204		Marufu Bridgett
+275	478		Bola Millicent
+276	2038		Jessica Boifio
+277	580		Billy Bahati
+278	403		Lynn Martha
+279	1448		Peninah Waluchio
+280	848		Bernard Derry Wanye
+281	1875		Valen Kashu Mie
+282	15		Manguya Stanpurity
+283	963		Brian Ben
+284	7		David Mungah
+285	0		Millie Lillie
+286	435		Clacious Clare
+287	913		Chloris Gayana
+288	2246		Fridah Andeso
+289	2920		Daisy Maloba
+290	1460		Noel Aluso
+291	1895		Barbara Freds
+292	595		Samantha Sam
+293	848		Lydia Wanjala
+294	867		Valton Swartzer Kimson
+295	643		Bleck Vandùnem
+296	4916		Godwin Heavenz
+297	29		Jalo Brown
+298	2955		Alecks Sudi
+299	2369		Oscar Juma
+300	2799		Clare Achibella
+301	1496		Nicky Giovanni
+302	840		Nkem Anthony
+303	4429		Yusuf Tashley Anifa
+304	472		Vivianne Richards
+305	358		Imali Melvins
+306	23		Nancy Nancie
+307	313		Wayne Maloba
+308	2777		Desmon Quirwah
+309	1301		Donnata Mutende
+310	1017		Enid Cecil
+311	1294		Curtice Philip
+312	315		Dalma Auma
+313	910		Angie Nyongesah
+314	65		Hisa Moses JW
+315	2986		Lyn Lyz
+316	0		Ronny Chege
+317	80		Eveonne Mboya Yvonne
+318	2509		Sandra Lynn
+319	1001		Emeldah Shams
+320	766		Annette Afwande
+321	398		Paul Shiundu
+322	825		Lister Amwayi
+323	0		Donnata Camelyn
+324	521		Jackyjones-lenny Dolph
+325	0		Keitlynn Faith Chiteh
+326	1085		Ann Akosa
+327	1924		Marion Jewell Khalai
+328	396		Moyor Maxwell
+329	412		Manuel Aggrey
+330	1229		Whitney Maggie
+331	1026		Sermeera S. Mlama
+332	555		Becky Ajetarovina
+333	908		Velma Muleri
+334	574		Sakina Safu
+335	883		Eileen Kakaa
+336	0		Ronny Demarley
+337	1202		Divine Owuor
+338	1156		Betty Bilizer Bilo
+339	428		Mutabazzy Quizerror
+340	726		Cyder Kiiru
+341	436		Bernard Wamukoya
+342	1101		Dorety Bhali Bonface
+343	554		Bilha Odemba
+344	632		Wycklife Ching
+345	639		Carole Carlie
